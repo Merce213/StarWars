@@ -29,7 +29,7 @@ const People = () => {
     console.log("nextPage", nextPage);
 
     return (
-        <div className="h-screen bg-gradient-to-b from-blue-800 to-cyan-800">
+        <div className="min-h-screen bg-gradient-to-b from-blue-800 to-cyan-800">
             <div className="container mx-auto p-4">
                 <div className="searchBar my-8">
                     <input
